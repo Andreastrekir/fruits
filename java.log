@@ -1,0 +1,51 @@
+number
+5
+5 + 34
+39
+number + 34
+39
+number - 1
+4
+number - 4
+1
+number % 10
+5
+number / 10
+0.5
+10 / number 
+2
+number += "34"
+"534"
+number - "4"
+530
+10 % 5
+0
+5 % 10
+5
+console.log(" " + " ")
+VM858:1   
+undefined
+console.log("Java" + "Script")
+VM944:1 JavaScript
+undefined
+console.log(" " + 0)
+VM1005:1  0
+undefined
+console.log("2 > 1" + "2 > 1")
+VM1104:1 2 > 12 > 1
+undefined
+console.log("true"+"true")
+VM1189:1 truetrue
+undefined
+console.log(true " " + " "true)
+VM1288:1 Uncaught SyntaxError: missing ) after argument list
+console.log(true "+" true)
+VM1437:1 Uncaught SyntaxError: missing ) after argument list
+console.log("true""+""true")
+VM1504:1 Uncaught SyntaxError: missing ) after argument list
+console.log("Bob" - "Bill")
+VM1605:1 NaN
+undefined
+console.log("Bob"-"Bill")
+VM1667:1 NaN
+undefined
